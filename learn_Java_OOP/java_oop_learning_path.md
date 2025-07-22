@@ -11,10 +11,11 @@
 
 **Tuần 1: Nhập môn Java**
 
-- Cài JDK, IDE (IntelliJ IDEA hoặc VS Code).
-- Viết và chạy HelloWorld.java.
-- So sánh Java với C++ về cách viết class, hàm `main`.
-- Nhập xuất dữ liệu bằng `Scanner`, `System.out.println()`.
+- [x] Cài JDK, IDE (IntelliJ IDEA hoặc VS Code).
+- [x] Viết và chạy HelloWorld.java.
+- [x] So sánh Java với C++ về cách viết hàm `main`.
+- [ ] So sánh Java với C++ về cách viết class.
+- [ ] Nhập xuất dữ liệu bằng `Scanner`, `System.out.println()`.
 
 **Tuần 2: Class và Object**
 
@@ -48,3 +49,53 @@
 - Thực hành tổ chức mã và chia class theo chức năng.
 
 ---
+
+#### 1. Java Tutorial
+
+- Syntax
+
+- Output
+
+- Comment
+
+- Variables (declare multiple variables)
+
+- Data types
+
+- Type Casting (ép kiểu)
+
+- Operators (các toán tử)
+
+- Strings (escape characters, string concatenation, num + str = str, escape sequences)
+
+- Math (class Math and its methods)
+
+- Booleans (các cách dùng một biểu thức điều kiện)
+
+- If...else (ternary operator)
+
+- Switch
+
+- While loop, For loop (do...while, for-each loop, nested loop)
+
+- Break, Continue
+
+- Arrays (how to loop through an rray, multidimentional array)
+
+#### 2. Java Methods
+
+- Method
+
+- Method parameters (parameters, arguments: tham số, đối số; method return values)
+
+- Method overloading (same-name methods with different parameters)
+
+- Scope
+
+- Recursion (halting condition)
+
+#### 3. Java Classes
+
+- What is OOP (procedural programing and object-oriented programing)
+
+- 
